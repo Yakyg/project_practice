@@ -1,20 +1,20 @@
-- [About bot](https://github.com/Yakyg/project_practice/tree/main/docs/) - Страница с информацией работе бота
+- [About bot](https://github.com/Yakyg/project_practice/blob/main/docs/About%20bot.md) - Страница с информацией работе бота
   - Описание
   - Функционал
   - Планируемый функционал
   - Изучение технологии
-- [About events](https://github.com/Mark-Lender-241-3211/Practice_2025/blob/main/docs/About%20events.md) - Страница с ифнормацией о пройденных мероприятиях
+- [About events](https://github.com/Yakyg/project_practice/blob/main/docs/About%20events.md) - Страница с ифнормацией о пройденных мероприятиях
   - Введение
   - ПРЕЗЕНТАЦИЯ КОМПАНИИ НИИ «МосТрансПроект»
   - Карьерный марафон
   - ЭКСУРСИЯ В «ПЕРВЫЙ БИТ»
   - Заключение
-- [About project](https://github.com/Mark-Lender-241-3211/Practice_2025/blob/main/docs/About%20project.md) - Страница с информацией о проекте
+- [About project](https://github.com/Yakyg/project_practice/blob/main/docs/About%20project.md) - Страница с информацией о проекте
   - Описание проекта
   - Участники
   - Ход работы
   - Использумые технологии
   - Результаты
-- [About site](https://github.com/Mark-Lender-241-3211/Practice_2025/blob/main/docs/About%20site.md) - Страница с информацией о сайте
+- [About site](https://github.com/Yakyg/project_practice/blob/main/docs/About%20site.md) - Страница с информацией о сайте
   - Структура сайте
   - Страницы сайта 
